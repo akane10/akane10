@@ -1,4 +1,4 @@
-![alt text](https://media2.giphy.com/media/Nzz86dByLtYTS/giphy.gif)
+![alt text](https://66.media.tumblr.com/9afad50d82b8127ebbd287188785ff2e/tumblr_ozgoaoFQ9c1vfdbcyo3_500.gifv)
 
 <!--
 **akane10/akane10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
