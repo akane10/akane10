@@ -1,6 +1,7 @@
-![alt text](https://66.media.tumblr.com/9afad50d82b8127ebbd287188785ff2e/tumblr_ozgoaoFQ9c1vfdbcyo3_500.gifv)
-![alt text](https://i.pinimg.com/originals/64/84/26/648426b4884055657a9a7d3a5ad70c30.gif)
-![alt text](https://i.pinimg.com/originals/19/34/4e/19344efc137dfd9f5d9f54bafa81f399.gif)
+<img src="https://66.media.tumblr.com/9afad50d82b8127ebbd287188785ff2e/tumblr_ozgoaoFQ9c1vfdbcyo3_500.gifv" alt="drawing" width="400"/>
+<img src="https://i.pinimg.com/originals/64/84/26/648426b4884055657a9a7d3a5ad70c30.gif" alt="drawing" width="400"/>
+<img src="https://i.pinimg.com/originals/19/34/4e/19344efc137dfd9f5d9f54bafa81f399.gif" alt="drawing" width="400"/>
+
 
 <!--
 **akane10/akane10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
